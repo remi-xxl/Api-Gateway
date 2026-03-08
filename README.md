@@ -24,7 +24,7 @@ A production-grade API Gateway built with Node.js, Express, Redis, and MongoDB.
 
 - Node.js v18+
 - MongoDB running locally
-- Redis running locally (or Memurai on Windows)
+- Redis running locally
 
 ### Installation
 
